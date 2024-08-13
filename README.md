@@ -8,6 +8,7 @@ This script helps to simulate and observe performance issues in WebSocket data t
 1. **Navigate to the Project Directory:**
 
    ```bash
+   git clone https://github.com/harendrasp/nodetesting.git
    cd nodetesting
    ```
 
