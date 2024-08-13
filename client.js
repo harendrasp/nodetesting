@@ -3,7 +3,7 @@ const ws = new WebSocket('ws://localhost:8057');
 const messageSize = 3840 * 2160 * 3; // 4K RGB frame data.
 let startTime;
 let roundTripTimes = [];
-const totalPackets = 100;
+const totalPackets = 20;
 
 ws.onopen = () => {
     console.log('Connected to server');
