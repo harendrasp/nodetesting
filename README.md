@@ -23,7 +23,7 @@ This script helps to simulate and observe performance issues in WebSocket data t
    node server.js
    ```
 
-4. **Open Chrome Browser(with google.com) and Access the Console:**
+4. **Open Chrome Browser(with www.google.com) and Access the Console:**
 
    - Press `F12` or `Ctrl + Shift + I` to open the Developer Tools.
    - Go to the `Console` tab of google.com.
