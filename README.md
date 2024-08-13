@@ -20,7 +20,7 @@ This script helps to simulate and observe performance issues in WebSocket data t
 3. **Start the Server:**
 
    ```bash
-   node server.js
+   npm start
    ```
 
 4. **Open Chrome Browser(with www.google.com) and Access the Console:**
